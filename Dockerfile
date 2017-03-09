@@ -4,7 +4,7 @@ MAINTAINER hugues@sutoiku.com
 
 COPY . /apps/beeline
 
-ENV HIVE_VERSION 1.2.0
+ENV HIVE_VERSION 1.1.0
 
 WORKDIR /apps/beeline
 
